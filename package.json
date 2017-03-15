@@ -1,0 +1,11 @@
+{
+  "name": "findmissingnumber",
+  "version": "1.0.0",
+  "description": "Finds the missing number of two arrays",
+  "main": "finfMissing.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Mayowa Makinde",
+  "license": "ISC"
+}
